@@ -11,8 +11,9 @@ a simple bilibili model of the cnc programing
 
 ## reference
 图片来源自google
-![](https://ws3.sinaimg.cn/large/005BYqpgly1g25rei629ej3078078wek.jpg)
 参考设计图如下
+
+![](https://ws3.sinaimg.cn/large/005BYqpgly1g25rei629ej3078078wek.jpg)
 
 -------------
 ## conclusion
